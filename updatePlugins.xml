@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
   <plugin id="material-theme" url="https://github.com/top1436/plugin-registry/raw/main/Material_Theme-5.5.1.zip" version="5.5.1">
-    <idea-version since-build="203.*" until-build="203.*" />
   </plugin>
 </plugins>
