@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <plugin id="material-theme" url="http://nexus3.sdsdev.deppaas.io/repository/che-assets/files/che-idea/latest/plugins/Material_Theme-5.5.1.zip" version="5.5.1">
+    <idea-version since-build="203" until-build="203.4" />
+  </plugin>
+</plugins>
